@@ -1,14 +1,14 @@
-Spring Academy course on Securing a REST API with OAUTH2.0
+# Spring Academy course on Securing a REST API with OAUTH2.0
 https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/conclusion
 
-Course Content:
+## Course Content:
 
-Module 1 : Secure Defaults
+### Module 1: Secure Defaults
 
 -Spring Security Defaults
 
 
-Module 2: Authentication
+### Module 2: Authentication
 
 -Adding Authentication ( Content Negotiation, Authentication process/result )
 
@@ -21,7 +21,7 @@ Module 2: Authentication
 -Processing Failures ( Customizing error handling, Authentication filters )
 
 
-Module 3: Authorization
+### Module 3: Authorization
 
 -Request vs Method
 
