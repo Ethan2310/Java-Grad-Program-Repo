@@ -5,7 +5,7 @@ https://spring.academy/courses/spring-academy-secure-rest-api-oauth2/conclusion
 
 ### Module 1: Secure Defaults
 
--Spring Security Defaults
+- Spring Security Defaults
 
 
 ### Module 2: Authentication
