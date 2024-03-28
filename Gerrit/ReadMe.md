@@ -1,9 +1,9 @@
-Udemy Course on Gerrit Code Review
+# Udemy Course on Gerrit Code Review
 
 https://dvt.udemy.com/course/gerrit-code-review-project-and-user-guide/learn/lecture/23954894#overview
 
 
-Course content:
+## Course content:
 
 -Project Admin ( create project/tags/branches, access controls, deleting project )
 
