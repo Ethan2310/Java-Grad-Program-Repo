@@ -1,8 +1,8 @@
-Udemy course on Java Database Connection: JDBC and MySQL
+# Udemy course on Java Database Connection: JDBC and MySQL
 
 https://dvt.udemy.com/organization/search/?src=ukw&q=JDBC
 
-Course Content:
+## Course Content:
 
 -CRUD operations
 
