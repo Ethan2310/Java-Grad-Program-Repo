@@ -1,5 +1,6 @@
-First sub-module in Udacity Course Java Programming
-Content Covered:
+# First sub-module in Udacity Course Java Programming
+
+## Content Covered:
 
 -Java Programming Basics ( Keywords, Variables, Primitives, Type Casting, Loops, Arrays etc )
 
