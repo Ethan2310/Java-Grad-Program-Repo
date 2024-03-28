@@ -1,8 +1,8 @@
-Udemy course on Hibernate and JPA with Spring Boot
+# Udemy course on Hibernate and JPA with Spring Boot
 
 https://dvt.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/learn/lecture/7907118#overview
 
-Course Content:
+## Course Content:
 
 -Recap of Spring Boot and Spring Framework
 
