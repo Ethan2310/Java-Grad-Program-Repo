@@ -1,9 +1,9 @@
-Udemy course on Java Network Programming - TCP/IP Socket Programming
+# Udemy course on Java Network Programming - TCP/IP Socket Programming
 
 https://dvt.udemy.com/course/java-network-programming/learn/lecture/5739822#overview
 
 
-Course Content:
+## Course Content:
 
 -TCP/IP model and Communication
 
