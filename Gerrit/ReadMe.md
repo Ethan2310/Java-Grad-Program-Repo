@@ -5,14 +5,9 @@ https://dvt.udemy.com/course/gerrit-code-review-project-and-user-guide/learn/lec
 
 ## Course content:
 
--Project Admin ( create project/tags/branches, access controls, deleting project )
-
--User settings and configuration
-
--Pushing code to Gerrit
-
--Using change screen ( submit change, abandon change, restore change )
-
--Grouping changes
-
--Conflict resolution ( Rebase, cherry-picking )
+- Project Admin ( create project/tags/branches, access controls, deleting project )
+- User settings and configuration
+- Pushing code to Gerrit
+- Using change screen ( submit change, abandon change, restore change )
+- Grouping changes
+- Conflict resolution ( Rebase, cherry-picking )
