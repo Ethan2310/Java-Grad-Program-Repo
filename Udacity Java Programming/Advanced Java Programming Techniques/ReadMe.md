@@ -1,4 +1,6 @@
-Content Covered in this Sub-Course:
+# Advanced Java Programming Techniques 
+
+## Content Covered in this Sub-Course:
 
 -Functional Programming ( Lambda Expressions, Functional Interfaces, Anonymous Subclasses, Stream API and more )
 
